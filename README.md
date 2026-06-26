@@ -1,2 +1,2 @@
 # zathura-matugen
-change blur to around 16
+change blur to around 20
